@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ARCADE PVP",
+    "ip": "144.217.62.159",
+    "port": 7777,
+    "largeImageKey": "arcade-pvp",
+    "largeImageText": "ARCADE PVP"
+  },
+  {
+    "name": "SH RolePlay",
+    "ip": "51.195.124.233",
+    "port": 7782,
+    "largeImageKey": "sh-roleplay",
+    "largeImageText": "SH RolePlay"
+  },
+  {
+    "name": "Rolex RolePlay",
+    "ip": "51.83.189.15",
+    "port": 7777,
+    "largeImageKey": "rolex-roleplay",
+    "largeImageText": "Rolex RolePlay"
+  },
+  {
+    "name": "Lost RolePlay",
+    "ip": "31.56.25.158",
+    "port": 7777,
+    "largeImageKey": "lost-roleplay",
+    "largeImageText": "Lost RolePlay"
+  },
+  {
+    "name": "Trapstar RolePlay",
+    "ip": "147.189.175.135",
+    "port": 7070,
+    "largeImageKey": "trapstar-roleplay",
+    "largeImageText": "Trapstar RolePlay"
+  },
+  {
+    "name": "B9H CLUB PVP",
+    "ip": "147.189.175.135",
+    "port": 7070,
+    "largeImageKey": "b9h-club-pvp",
+    "largeImageText": "B9H CLUB | PVP"
+  }
+]
