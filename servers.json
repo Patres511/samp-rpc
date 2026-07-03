@@ -7,6 +7,13 @@
     "largeImageText": "ARCADE PVP"
   },
   {
+    "name": "STT - War em Las Vegas",
+    "ip": "135.148.159.205",
+    "port": 7777,
+    "largeImageKey": "stt-war-em-las-vegas",
+    "largeImageText": "STT - War em Las Vegas"
+  },
+  {
     "name": "SH RolePlay",
     "ip": "51.195.124.233",
     "port": 7782,
