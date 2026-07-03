@@ -15,10 +15,38 @@
   },
   {
     "name": "Brasil Play Shox",
+    "ip": "ip1.brasilplayshox.com.br",
+    "port": 7777,
+    "largeImageKey": "brasil-play-shox",
+    "largeImageText": "Brasil Play Shox"
+  },
+  {
+    "name": "Brasil Play Shox",
     "ip": "ip2.brasilplayshox.com.br",
     "port": 7777,
     "largeImageKey": "brasil-play-shox",
     "largeImageText": "Brasil Play Shox"
+  },
+  {
+    "name": "Brasil Play Shox",
+    "ip": "ip3.brasilplayshox.com.br",
+    "port": 7777,
+    "largeImageKey": "brasil-play-shox",
+    "largeImageText": "Brasil Play Shox"
+  },
+  {
+    "name": "Brasil Play Shox",
+    "ip": "ip4.brasilplayshox.com.br",
+    "port": 7777,
+    "largeImageKey": "brasil-play-shox",
+    "largeImageText": "Brasil Play Shox"
+  },
+  {
+    "name": "Brasil Los Katchorros",
+    "ip": "mobile4.loskatchorros.com.br",
+    "port": 7777,
+    "largeImageKey": "brasil-los-katchorros",
+    "largeImageText": "Brasil Los Katchorros"
   },
   {
     "name": "SH RolePlay",
