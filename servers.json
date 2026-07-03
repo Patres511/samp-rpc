@@ -14,6 +14,13 @@
     "largeImageText": "STT - War em Las Vegas"
   },
   {
+    "name": "Brasil Play Shox",
+    "ip": "ip2.brasilplayshox.com.br",
+    "port": 7777,
+    "largeImageKey": "brasil-play-shox",
+    "largeImageText": "Brasil Play Shox"
+  },
+  {
     "name": "SH RolePlay",
     "ip": "51.195.124.233",
     "port": 7782,
