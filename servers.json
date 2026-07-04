@@ -56,6 +56,13 @@
     "largeImageText": "Arabica X RedDiamond RolePlay"
   },
   {
+    "name": "Horizonte Roleplay",
+    "ip": "149.56.252.173",
+    "port": 7777,
+    "largeImageKey": "horizonte-roleplay",
+    "largeImageText": "Horizonte Roleplay"
+  },
+  {
     "name": "SH RolePlay",
     "ip": "51.195.124.233",
     "port": 7782,
