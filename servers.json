@@ -49,6 +49,27 @@
     "largeImageText": "Brasil Los Katchorros"
   },
   {
+    "name": "Valiant RolePlay",
+    "ip": "play.valiantroleplay.my.id",
+    "port": 7775,
+    "largeImageKey": "valiant-roleplay",
+    "largeImageText": "Valiant RolePlay"
+  },
+  {
+    "name": "BLOOD DEATHMATCH",
+    "ip": "ip.blood.ovh",
+    "port": 7777,
+    "largeImageKey": "blood-deathmatch",
+    "largeImageText": "BLOOD DEATHMATCH"
+  },
+  {
+    "name": "Arabica X RedDiamond RolePlay",
+    "ip": "193.111.250.244",
+    "port": 7777,
+    "largeImageKey": "arabica-x-reddiamond-roleplay",
+    "largeImageText": "Arabica X RedDiamond RolePlay"
+  },
+  {
     "name": "SH RolePlay",
     "ip": "51.195.124.233",
     "port": 7782,
