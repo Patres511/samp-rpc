@@ -35,6 +35,13 @@
     "largeImageText": "Brasil Los Katchorros"
   },
   {
+    "name": "Brasil Roleplay Oficial",
+    "ip": "151.242.227.111",
+    "port": 7777,
+    "largeImageKey": "brasil-roleplay",
+    "largeImageText": "Brasil Roleplay Oficial"
+  },
+  {
     "name": "Valiant RolePlay",
     "ip": "82.25.36.26",
     "port": 7775,
