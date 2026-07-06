@@ -77,6 +77,13 @@
     "largeImageText": "Horizonte Roleplay"
   },
   {
+    "name": "Amigos Roleplay",
+    "ip": "51.83.189.0",
+    "port": 7777,
+    "largeImageKey": "amigos-roleplay",
+    "largeImageText": "Amigos Roleplay"
+  },
+  {
     "name": "SH RolePlay",
     "ip": "51.195.124.233",
     "port": 7782,
