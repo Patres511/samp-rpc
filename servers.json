@@ -15,52 +15,52 @@
   },
   {
     "name": "Brasil Play Shox",
-    "ip": "149.56.252.191",
+    "ip": "ip1.brasilplayshox.com.br",
     "port": 7777,
     "largeImageKey": "brasil-play-shox",
     "largeImageText": "Brasil Play Shox"
   },
   {
     "name": "Brasil Play Shox",
-    "ip": "151.242.227.116",
+    "ip": "ip2.brasilplayshox.com.br",
+    "port": 7777,
+    "largeImageKey": "brasil-play-shox",
+    "largeImageText": "Brasil Play Shox"
+  },
+  {
+    "name": "Brasil Play Shox",
+    "ip": "ip3.brasilplayshox.com.br",
+    "port": 7777,
+    "largeImageKey": "brasil-play-shox",
+    "largeImageText": "Brasil Play Shox"
+  },
+  {
+    "name": "Brasil Play Shox",
+    "ip": "ip4.brasilplayshox.com.br",
     "port": 7777,
     "largeImageKey": "brasil-play-shox",
     "largeImageText": "Brasil Play Shox"
   },
   {
     "name": "Brasil Los Katchorros",
-    "ip": "15.235.123.105",
+    "ip": "mobile4.loskatchorros.com.br",
     "port": 7777,
     "largeImageKey": "brasil-los-katchorros",
     "largeImageText": "Brasil Los Katchorros"
   },
   {
-    "name": "Brasil Roleplay Oficial",
-    "ip": "151.242.227.111",
-    "port": 7777,
-    "largeImageKey": "brasil-roleplay",
-    "largeImageText": "Brasil Roleplay Oficial"
-  },
-  {
     "name": "Valiant RolePlay",
-    "ip": "82.25.36.26",
+    "ip": "play.valiantroleplay.my.id",
     "port": 7775,
     "largeImageKey": "valiant-roleplay",
     "largeImageText": "Valiant RolePlay"
   },
   {
     "name": "BLOOD DEATHMATCH",
-    "ip": "143.20.37.52",
+    "ip": "ip.blood.ovh",
     "port": 7777,
     "largeImageKey": "blood-deathmatch",
     "largeImageText": "BLOOD DEATHMATCH"
-  },
-  {
-    "name": "Karikku PvP",
-    "ip": "151.243.226.134",
-    "port": 7777,
-    "largeImageKey": "karikku-pvp",
-    "largeImageText": "Karikku PvP"
   },
   {
     "name": "Arabica X RedDiamond RolePlay",
@@ -68,20 +68,6 @@
     "port": 7777,
     "largeImageKey": "arabica-x-reddiamond-roleplay",
     "largeImageText": "Arabica X RedDiamond RolePlay"
-  },
-  {
-    "name": "Horizonte Roleplay",
-    "ip": "149.56.252.173",
-    "port": 7777,
-    "largeImageKey": "horizonte-roleplay",
-    "largeImageText": "Horizonte Roleplay"
-  },
-  {
-    "name": "Amigos Roleplay",
-    "ip": "51.83.189.0",
-    "port": 7777,
-    "largeImageKey": "amigos-roleplay",
-    "largeImageText": "Amigos Roleplay"
   },
   {
     "name": "SH RolePlay",
@@ -106,16 +92,23 @@
   },
   {
     "name": "Trapstar RolePlay",
-    "ip": "188.165.55.190",
-    "port": 7777,
+    "ip": "147.189.175.135",
+    "port": 7070,
     "largeImageKey": "trapstar-roleplay",
     "largeImageText": "Trapstar RolePlay"
   },
   {
     "name": "B9H CLUB PVP",
-    "ip": "51.38.205.167",
-    "port": 21240,
+    "ip": "89.42.88.90",
+    "port": 7023,
     "largeImageKey": "b9h-club-pvp",
-    "largeImageText": "B9H CLUB | PVP"
+    "largeImageText": "B9H CLUB PVP"
+  },
+    {
+    "name": "KinDreD RolePlay",
+    "ip": "31.56.25.93",
+    "port": 7777,
+    "largeImageKey": "kndd",
+    "largeImageText": "KinDreD RolePlay"
   }
 ]
