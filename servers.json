@@ -105,6 +105,13 @@
     "largeImageText": "B9H CLUB PVP"
   },
     {
+    "name": "Lions PVP",
+    "ip": " 193.203.238.136",
+    "port": 7000,
+    "largeImageKey": "lions-pvp",
+    "largeImageText": "Lions PVP"
+  },
+    {
     "name": "KinDreD RolePlay",
     "ip": "31.56.25.93",
     "port": 7777,
